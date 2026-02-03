@@ -1,1 +1,1 @@
-# Slides
+Repositório dedicado aos materiais e slides das aulas de Inteligência Artificial do semestre 2026/01. O conteúdo abrange desde os fundamentos teóricos até implementações práticas, com foco em algoritmos de busca, redes neurais e aprendizado de máquina. Os slides são desenvolvidos em LaTeX para garantir precisão técnica e organização visual.
